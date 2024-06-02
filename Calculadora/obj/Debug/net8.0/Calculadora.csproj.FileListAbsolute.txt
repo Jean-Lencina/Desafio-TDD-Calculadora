@@ -1,0 +1,42 @@
+C:\Estudo C#\Aulas\ModuloTestesDIO\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Estudo C#\Aulas\ModuloTestesDIO\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Estudo C#\Aulas\ModuloTestesDIO\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Estudo C#\Aulas\ModuloTestesDIO\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Estudo C#\Aulas\ModuloTestesDIO\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Estudo C#\Aulas\ModuloTestesDIO\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo C#\Aulas\ModuloTestesDIO\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Estudo C#\Aulas\ModuloTestesDIO\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Estudo C#\Aulas\ModuloTestesDIO\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Estudo C#\Aulas\ModuloTestesDIO\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Estudo C#\Aulas\ModuloTestesDIO\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Estudo C#\Aulas\ModuloTestesDIO\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Estudo C#\Aulas\ModuloTestesDIO\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Estudo C#\Aulas\ModuloTestesDIO\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
+C:\Estudo C#\Desafios\trilha-tdd-e-testes-unitario-com calculadora-desafio\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo C#\Desafios\trilha-tdd-e-testes-unitario-com calculadora-desafio\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Estudo C#\Desafios\trilha-tdd-e-testes-unitario-com calculadora-desafio\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Estudo C#\Desafios\trilha-tdd-e-testes-unitario-com calculadora-desafio\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Estudo C#\Desafios\trilha-tdd-e-testes-unitario-com calculadora-desafio\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Estudo C#\Desafios\trilha-tdd-e-testes-unitario-com calculadora-desafio\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Estudo C#\Desafios\trilha-tdd-e-testes-unitario-com calculadora-desafio\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Estudo C#\Desafios\trilha-tdd-e-testes-unitario-com calculadora-desafio\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Estudo C#\Desafios\trilha-tdd-e-testes-unitario-com calculadora-desafio\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Estudo C#\Desafios\trilha-tdd-e-testes-unitario-com calculadora-desafio\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Estudo C#\Desafios\trilha-tdd-e-testes-unitario-com calculadora-desafio\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Estudo C#\Desafios\trilha-tdd-e-testes-unitario-com calculadora-desafio\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Estudo C#\Desafios\trilha-tdd-e-testes-unitario-com calculadora-desafio\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Estudo C#\Desafios\trilha-tdd-e-testes-unitario-com calculadora-desafio\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
+C:\Estudo C#\Desafios\Desafio-TDD-Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Estudo C#\Desafios\Desafio-TDD-Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Estudo C#\Desafios\Desafio-TDD-Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Estudo C#\Desafios\Desafio-TDD-Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Estudo C#\Desafios\Desafio-TDD-Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Estudo C#\Desafios\Desafio-TDD-Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo C#\Desafios\Desafio-TDD-Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Estudo C#\Desafios\Desafio-TDD-Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Estudo C#\Desafios\Desafio-TDD-Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Estudo C#\Desafios\Desafio-TDD-Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Estudo C#\Desafios\Desafio-TDD-Calculadora\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Estudo C#\Desafios\Desafio-TDD-Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Estudo C#\Desafios\Desafio-TDD-Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Estudo C#\Desafios\Desafio-TDD-Calculadora\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
